@@ -1,8 +1,2 @@
----
-title: "Hello World"
-author: "Jennifer Gonzalez"
-date: "5/1/2020"
-output: html_document
----
+## This a markdown file
 
-## This is a markdwon file 
